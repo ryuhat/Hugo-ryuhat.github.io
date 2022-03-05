@@ -11,8 +11,6 @@
     <description>Recent content in Koes on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
@@ -24,12 +22,12 @@
         <title>Archive</title>
         <link>https://ryuhat.github.io/ko/ko/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ko/ko/archive/</guid>
         <description>archive page</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -42,12 +40,12 @@
         <title>About</title>
         <link>https://ryuhat.github.io/ko/ko/about/</link>
         <pubDate>Wed, 09 Oct 2019 11:44:14 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Wed, 09 Oct 2019 11:44:14 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ko/ko/about/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -60,12 +58,12 @@
         <title>Photo</title>
         <link>https://ryuhat.github.io/ko/ko/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ko/ko/gallery/photo/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -78,12 +76,12 @@
         <title>Cartoon</title>
         <link>https://ryuhat.github.io/ko/ko/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ko/ko/gallery/cartoon/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -96,7 +94,7 @@
         <title>Posts</title>
         <link>https://ryuhat.github.io/ko/ko/posts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         
         <guid>https://ryuhat.github.io/ko/ko/posts/</guid>
         <description></description>

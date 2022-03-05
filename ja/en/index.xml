@@ -11,8 +11,6 @@
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>Posts</title>
         <link>https://ryuhat.github.io/ja/en/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         
         <guid>https://ryuhat.github.io/ja/en/posts/</guid>
         <description></description>
@@ -48,12 +46,12 @@
         <title>Showcase overview</title>
         <link>https://ryuhat.github.io/ja/en/showcase/</link>
         <pubDate>Sun, 19 Jan 2020 15:43:38 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Sun, 19 Jan 2020 15:43:38 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ja/en/showcase/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -66,12 +64,12 @@
         <title>Cartoon</title>
         <link>https://ryuhat.github.io/ja/en/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ja/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         <media:content url="https://ryuhat.github.io/images/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -84,12 +82,12 @@
         <title>Photo</title>
         <link>https://ryuhat.github.io/ja/en/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ja/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         <media:content url="https://ryuhat.github.io/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -102,12 +100,12 @@
         <title>Presentations</title>
         <link>https://ryuhat.github.io/ja/en/presentation/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         
         <guid>https://ryuhat.github.io/ja/en/presentation/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -120,12 +118,12 @@
         <title>Archive</title>
         <link>https://ryuhat.github.io/ja/en/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
         <guid>https://ryuhat.github.io/ja/en/archive/</guid>
         <description>archive page</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
@@ -138,14 +136,14 @@
         <title>About</title>
         <link>https://ryuhat.github.io/ja/en/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        
         <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
         <guid>https://ryuhat.github.io/ja/en/about/</guid>
         <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>Ryu Hat</dc:creator>
         
         
         
